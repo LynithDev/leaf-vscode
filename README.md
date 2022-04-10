@@ -7,6 +7,6 @@ VSCode color theme based on [Leaf KDE Plasma Theme](https://github.com/qewer33/l
 
 # Installation
 **Note: Currently won't be available on the Visual Studio marketplace due to some issues**<br>
-Clone the repo to the following locations:
-**Windows:** `%userprofile%/.vscode/extensions/`
+Clone the repo to the following locations:<br>
+**Windows:** `%userprofile%/.vscode/extensions/`<br>
 **macOS & Linux:** `~/.vscode/extensions/`
