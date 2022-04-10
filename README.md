@@ -3,7 +3,7 @@
 </p>
 
 # leaf-vscode
-VSCode color theme based on [Leaf KDE Plasma Theme](https://github.com/qewer33/leaf-kde) by @qewer33.
+VSCode color theme based on [Leaf KDE Plasma Theme](https://github.com/qewer33/leaf-kde) by @qewer33. Currently only has a dark variant
 
 # Installation
 **Note: Currently won't be available on the Visual Studio marketplace due to some issues**<br><br>
