@@ -18,9 +18,9 @@
             },
             {
                 "label": "Leaf Light",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/leaf-light-theme.json"
-            },
+            }
         ]
     }
 }
