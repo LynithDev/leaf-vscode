@@ -1,7 +1,7 @@
 {
-    "name": "leaf-dark",
-    "displayName": "leaf dark",
-    "description": "VS Code theme based on Leaf Dark colors",
+    "name": "leaf",
+    "displayName": "leaf",
+    "description": "VS Code themes based on Leaf colors",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -15,6 +15,11 @@
                 "label": "Leaf Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/leaf-dark-theme.json"
+            },
+            {
+                "label": "Leaf Light",
+                "uiTheme": "vs",
+                "path": "./themes/leaf-light-theme.json"
             }
         ]
     }
