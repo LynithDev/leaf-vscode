@@ -10,3 +10,7 @@ VSCode color theme based on [Leaf KDE Plasma Theme](https://github.com/qewer33/l
 Clone the repo to the following locations:<br>
 **Windows:** `%userprofile%/.vscode/extensions/`<br>
 **macOS & Linux:** `~/.vscode/extensions/`
+
+## Credits
+- @qewer for making the Plasma theme
+- @daschw for contributing the light scheme
